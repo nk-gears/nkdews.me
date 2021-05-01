@@ -1,5 +1,6 @@
 ---
 title: 'Adobe Launch Extension   - Development Setup'
+author: Nirmal
 date: '2019-02-02'
 path: '/adobe-launch-extension-notes'
 template: post

@@ -1,5 +1,6 @@
 ---
 title: 'Managing containers using Portainer API'
+author: Nirmal
 date: '2019-01-31'
 path: '/managing-containers-using-portainer-api'
 template: post

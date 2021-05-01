@@ -1,5 +1,6 @@
 ---
 title: 'Experimenting with MiTV'
+author: Nirmal
 date: '2019-06-22'
 path: '/experimenting-with-mitv'
 template: post
@@ -10,6 +11,7 @@ categories:
 tags:
   - xiaomi
   - tv
+  
 ---
 
 

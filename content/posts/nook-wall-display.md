@@ -1,5 +1,6 @@
 ---
 title: 'Creating a Information Display using OLD e-Ink Reader (NOOK)'
+author: Nirmal
 date: '2020-03-30'
 path: '/nook-wall-display.md'
 template: post
@@ -73,7 +74,8 @@ function getDisplayValues(){
  
   let dispValues={ 
     currency_rate:getCurrencyRate(),
-    current_date:getDisplayDate(),
+    current_author: Nirmal
+date:getDisplayDate(),
     active_ip_list:getActiveIPList(),
     daily_quotes:getDailyQuotes(),
     souls_suffering:getSufferList()    

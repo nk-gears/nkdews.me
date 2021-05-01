@@ -1,5 +1,6 @@
 ---
 title: 'Google Apps Script - Exposure'
+author: Nirmal
 date: '2020-01-11'
 path: '/apps-script-exposure.md'
 cover:

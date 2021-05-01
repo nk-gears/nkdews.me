@@ -1,5 +1,6 @@
 ---
 title: 'Scheduling & Automating Youtube Daily Live Streaming via Google Apps Script'
+author: Nirmal
 date: '2020-04-25'
 path: '/streaming-youtube-live-apps-script.md'
 template: post
@@ -451,7 +452,8 @@ The initial idea is not just automate the live stream creation but also provide 
 >
 >  var streamInfo = {
 >    title: 'Workshop (Audio) - ' + currentDateString + ' from , Chennai',
->    streamDate: currentDateString,
+>    streamauthor: Nirmal
+date: currentDateString,
 >    privacyStatus: 'public',
 >    format: '720p',
 >  };

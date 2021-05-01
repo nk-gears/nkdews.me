@@ -1,6 +1,7 @@
 ---
 title: 'Stripe API'
 draft: true
+author: Nirmal
 date: '2020-04-25'
 path: '/streaming-youtube-live-apps-script.md'
 template: post

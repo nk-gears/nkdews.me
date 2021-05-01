@@ -1,5 +1,6 @@
 ---
 title: 'Nook Simple Touch - Broken Infrared Touch'
+author: Nirmal
 date: '2020-03-29'
 path: '/nook-simple-touch-internals.md'
 template: post
