@@ -10,7 +10,8 @@ description: ""
 tags: ["adobe-launch", "setup"]
 cover:
     image: '/thumbnails/launch.png'
-    height: 100
+    width: 100
+    responsiveImages: true
 ShowToc: true
 ---
 

@@ -3,7 +3,8 @@ title: 'Creating a Information Display using OLD e-Ink Reader (NOOK)'
 date: '2020-03-30'
 path: '/nook-wall-display.md'
 template: post
-thumbnail: '../thumbnails/nook-touch.jpg'
+cover:
+    image:  '/thumbnails/nook-touch.jpg'
 categories:
   - Google AppsScript
   - Popular

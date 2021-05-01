@@ -3,7 +3,7 @@ title: 'Experimenting with MiTV'
 date: '2019-06-22'
 path: '/experimenting-with-mitv'
 template: post
-thumbnail: '../thumbnails/mitv.jpg'
+thumbnail: '/thumbnails/mitv.jpg'
 categories:
   - Experiments
   - Popular
@@ -12,7 +12,6 @@ tags:
   - tv
 ---
 
-# Experimenting with MiTV
 
 Last Edited: Jun 22, 2019 4:27 PM
 

@@ -2,8 +2,8 @@
 title: 'Google Apps Script - Exposure'
 date: '2020-01-11'
 path: '/apps-script-exposure.md'
-template: post
-thumbnail: '../thumbnails/app-script-logo.png'
+cover:
+    image:  '/thumbnails/app-script-logo.png'
 categories:
   - Programming
   - Popular

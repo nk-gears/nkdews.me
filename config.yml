@@ -69,8 +69,8 @@ params:
         title: PaperMod
         imageUrl: "#"
         imageTitle: my image
-        # imageWidth: 120
-        # imageHeight: 120
+        imageWidth: 120
+        imageHeight: 120
         buttons:
             - name: Archives
               url: archives

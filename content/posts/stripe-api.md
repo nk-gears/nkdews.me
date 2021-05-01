@@ -4,7 +4,8 @@ draft: true
 date: '2020-04-25'
 path: '/streaming-youtube-live-apps-script.md'
 template: post
-thumbnail: '../thumbnails/YouTube-Live.jpg'
+cover:
+    image:  '/thumbnails/YouTube-Live.jpg'
 categories:
   - Google AppsScript
   - Popular

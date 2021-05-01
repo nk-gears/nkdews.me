@@ -3,7 +3,8 @@ title: 'Managing containers using Portainer API'
 date: '2019-01-31'
 path: '/managing-containers-using-portainer-api'
 template: post
-thumbnail: '../thumbnails/portainer.png'
+cover:
+    image:  '/thumbnails/portainer.png'
 slug: portainer
 categories:
   - Container

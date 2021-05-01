@@ -3,7 +3,8 @@ title: 'Nook Simple Touch - Broken Infrared Touch'
 date: '2020-03-29'
 path: '/nook-simple-touch-internals.md'
 template: post
-thumbnail: '../thumbnails/nook-touch.jpg'
+cover:
+    image:  '/thumbnails/nook-touch.jpg'
 categories:
   - Android
   - Popular
