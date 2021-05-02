@@ -16,7 +16,7 @@ Developing a Vaccine for this Pandemic time is not a simple thing. Researchers, 
 
 Initially I was not much interested on the Covid-19 Vaccine and had less trust on hearing various media news. Later I was convinced based on the experience of People who took the vaccine. I went to the nearby Government Hospital (ESI) Ayanavaram and i had my First Shot in the Mid of March 2021. I appreciate the people who have maintained the place very neat and clean and well organized. They have 4 sections ( Registration, Testing, Doctor Review and Vaccination Room). We need to register ourselves in the front office with the Small Form which asks for Adhaar Number, Name, Age, Mobile Details.
 
-Then Blood Pressure, Oxyggen Levels are tested. Then these details needs to be reviwed by a Doctor in the next section who either approves or rejects based on the Candidate's testing results.
+Then Blood Pressure, Oxygen Levels are tested. Then these details needs to be reviwed by a Doctor in the next section who either approves or rejects based on the Candidate's testing results.
 
 The doctor asked whether i took any medicines or undergoing any other treatment. He also gave option to choose Covishield or Covaxin. I went with Covishield as i felt more convincing than Covaxin based on the composition.
 
