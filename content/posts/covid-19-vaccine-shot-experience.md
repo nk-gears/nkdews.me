@@ -10,13 +10,13 @@ tags:
 ---
 
 
-Developing a Vaccine for this Pandemic time is not a simple thing. Researchers, Scientits have invested huge efforts and time to develop the vaccine and brought to commercial usage within a short span of time.
+Developing a Vaccine for this Pandemic time is not a simple thing. Researchers, Scientists have invested huge efforts and time to develop the vaccine and brought to commercial usage within a short span of time.
 
 ## Covishield - First Shot
 
 Initially I was not much interested on the Covid-19 Vaccine and had less trust on hearing various media news. Later I was convinced based on the experience of People who took the vaccine. I went to the nearby Government Hospital (ESI) Ayanavaram and i had my First Shot in the Mid of March 2021. I appreciate the people who have maintained the place very neat and clean and well organized. They have 4 sections ( Registration, Testing, Doctor Review and Vaccination Room). We need to register ourselves in the front office with the Small Form which asks for Adhaar Number, Name, Age, Mobile Details.
 
-Then Blood Pressure, Oxygen Levels are tested. Then these details needs to be reviwed by a Doctor in the next section who either approves or rejects based on the Candidate's testing results.
+Then Blood Pressure, Oxygen Levels are tested. Then these details needs to be reviewed by a Doctor in the next section who either approves or rejects based on the Candidate's testing results.
 
 The doctor asked whether i took any medicines or undergoing any other treatment. He also gave option to choose Covishield or Covaxin. I went with Covishield as i felt more convincing than Covaxin based on the composition.
 
@@ -28,7 +28,7 @@ Since the government announced that the second shot works best if its delayed to
 
 ## Family Members
 
-As i got more trust on the vaccines, i took my Mother for the same inspite of her disinterest and frightnening news on the Vaccines. During the initial tests they asked about the Sugar Level as She is a Diabetic Patient. Since the Sugar Level is more tha 200 (Taking Insulin) they asked to come back after bringing the Sugar Level to less than 200. My Mother happily returned back without having the Vaccine Shot. Even for Me She was so angry not to take the second shot based on my pain on during the First Shot. I couldn't convince her and I went to the Vaccination Centre without Informing her and tok the Vaccine. Sometimes, changing the belief of people is tough when they already heard lot of scary news about the vaccination.
+As i got more trust on the vaccines, i took my Mother for the same inspite of her disinterest and frightening news on the Vaccines. During the initial tests they asked about the Sugar Level as She is a Diabetic Patient. Since the Sugar Level is more tha 200 (Taking Insulin) they asked to come back after bringing the Sugar Level to less than 200. My Mother happily returned back without having the Vaccine Shot. Even for Me She was so angry not to take the second shot based on my pain on during the First Shot. I couldn't convince her and I went to the Vaccination Centre without Informing her and tok the Vaccine. Sometimes, changing the belief of people is tough when they already heard lot of scary news about the vaccination.
 
 I strongly believe on this : "Do what your Intuitive Say. This will always Protect you at any cost"
 
