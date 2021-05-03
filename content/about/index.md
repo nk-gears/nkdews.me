@@ -11,7 +11,7 @@ I am also documenting all the Knowledge gained through Reading, Learning and Exp
 ## Currently Using
 
 - **Computer:** MacBook Pro 2012
-- **Operating System:** Primary : MacOSX Sierra. (Windows,Linux on demand)
+- **Operating System:** Primary : Mac OSX Sierra. (Windows,Linux on demand)
 - **Hosting:** [Netlify](https://netlify.com)
 - **Editor:** [Visual Studio Code](https://code.visualstudio.com/)
 - **Static Site Generator:** [Gatsby](https://gatsbyjs.org)

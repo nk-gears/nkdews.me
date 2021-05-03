@@ -1,5 +1,5 @@
-baseURL: "https://nkdews-hugo.netlify.app/"
-title: "NKDews - Nirmal's Personal Blog"
+baseURL: "https://https://nkdews.me/"
+title: "Nirmal's Personal Blog - Fullstack Developer and Cloud Solution Architect."
 paginate: 5
 theme: PaperMod
 permalinks:
