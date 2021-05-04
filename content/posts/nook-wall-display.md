@@ -1,17 +1,19 @@
 ---
-title: 'Creating a Information Display using OLD e-Ink Reader (NOOK)'
+title: Creating a Information Display using OLD e-Ink Reader (NOOK)
 author: Nirmal
 date: '2020-03-30'
-path: '/nook-wall-display.md'
+path: /nook-wall-display.md
 template: post
 cover:
-    image:  '/thumbnails/nook-touch.jpg'
+  image: /thumbnails/nook-touch.jpg
 categories:
   - Google AppsScript
-  - Popular
+  - popular
 tags:
   - nook
   - wall-display
+lastmod: 2021-05-04T09:39:21.496Z
+slug: creating-information-display-ink-reader-nook-
 ---
 
 In this post i would like to share how i used my spare rooted Nook Simple Touch e-Ink reader as a Wall mounted display unit to show some live news and information. This was inspired by the post [Train Status Display](https://shkspr.mobi/blog/2020/02/turn-an-old-ereader-into-an-information-screen-nook-str/)
