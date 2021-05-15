@@ -14,13 +14,13 @@ slug: home-music-setup
 In this Post i would like to share my Music Setup in my Home which is controlled through a Raspberry PI.
 
 
-<h2>Music Sources :</h2>
+### Music Sources :
 
 - 16GB Pen Drive (mp3 files) attached to Raspberry PI
 - Managed using forked-daapd
 
 
-<h2>Music Outputs </h2>
+### Music Outputs 
 
 - Sublime Bluetooth Speaker (AUX)
 - Google Home Mini (BTH)
@@ -28,7 +28,7 @@ In this Post i would like to share my Music Setup in my Home which is controlled
 - Logitech Speakers
 
 
-<h2>Network Stream/Connectivity Mode </h2>
+### Network Stream/Connectivity Mode 
 
 - Airplay (from iOS Devices) (Airplay running on Raspberry PI using Shairplay)
 - Chromecast (from Apps - Mostly Android)
@@ -37,7 +37,7 @@ In this Post i would like to share my Music Setup in my Home which is controlled
 - Direct Connection via Stereo Pin
 
 
-<h2>Apps </h2>
+### Apps 
 
 - Daap Client for iOS  (recently it was broken and not working anymore)
 - iTunes Remote iOS App (remote control only)
