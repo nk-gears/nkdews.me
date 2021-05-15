@@ -13,6 +13,7 @@ I saw the First Touch Devices in 2008 and its been a new experience when the dev
 
 
 Here a quick glance of my Phone Journey
+
 - 2006 - 2009 : Motorolla CDMA Phone (Tata Docomo Plan)
 - 2010 - 2012 : Tata Indicom CDMA Phone (Orange Display - Same Plan)
 - 2013 - 2016 : iPhone 4 (32 GB)
@@ -28,7 +29,7 @@ Then later, while driving on a Two wheeler, the Redmi Phone dropped from my Pock
 I cannot say its a luck to found these Phones. Because, i felt i used the right available methods to get back these devices. In case of iPhone i sent a message to my Phone "If you found this Phone please call this Number - My Friend). And i acted within few minutes because the Battery level in the Phone was very low at that time. By the time i received the Phone from the NYC Station it already drained to 0". In case of Redmi, i immeditaley acted to use the Google Web App to send a ringing sound and a contact number which helped me to get the phone back.
 
 
-Note :
+### Note :
 Not sure Karma acts here. Few years back i found a iPhone nearby street and called one of the recently dialled number and asked them to come and collect : )
 
 

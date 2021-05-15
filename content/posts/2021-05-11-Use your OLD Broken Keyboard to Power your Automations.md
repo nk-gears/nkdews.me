@@ -15,10 +15,11 @@ Later i decided to say Good Bye to these Apple Keyboard and went to Buy a DELL K
 
 All these key presses are captured through a python keyevent listener script which in turns detects the pressed key and runs appropriate script controlled through a NodeRed Flow.
 
+apple-keyboard-on-window.jpeg
 
 Currently i have configured almost 10+ keys
 
-
+```
 0 => Shutdown Everything (Including PI)
 1 => Switch on Work Laptop
 2 => Switch on Bamboo Laptop
@@ -30,14 +31,23 @@ Space bar => Play or Pause any Playing Music from Raspberry PI (Fored-Daapd)
 N => Play my another Favourite Playist
 K => Send my Daily thoughts to Kindle
 
-
-```
-PyKeyboard Listener Script
 ```
 
-
 ```
-Key Action Script
+import keyboard
+import time
+import requests
+
+def key_press(key):
+    #NodeRED API Url called for executing the action
+    strUrl="http://127.0.0.1:1880/rpi-switch?key={0}".format(key.name)
+    requests.get(strUrl)
+
+keyboard.on_press(key_press)
+
+while True:
+    time.sleep(1)
+
 ```
 
 

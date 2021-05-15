@@ -1,7 +1,7 @@
 ---
 title: Controlling Smart Home Devices using  Relay Switch
 date: '2021-05-11'
-draft: false
+draft: true
 tags: &1
 - iot
 - relay
@@ -9,45 +9,28 @@ categories: *1
 slug: controlling-smart-home-devices-using-relay-switch
 ---
 
-<b>
-</b>
+In this post i would like to share how i created Smart Socket using a OLD Socket Buster.
 
 
-<hr/>In this post i would like to share how i created Smart Socket using a OLD Socket Buster.
+<img   src='/thumbnails/apple-keyboard-on-window.jpeg' />
 
 
-<b>Prerequisites</b> 
+### Prerequisites
+
 - Any socket spike buster 
 - Raspberry PI (running raspbian) 
 - 4 Channel Relay Switch 
 - 3 Metres Pair Wires.
-<b>Connection Flow</b>
 
+### Connection Flow
 
 Relay Switch : 
+
 Every relay switch comes with 2 modes NC and NO 
 NO : Normally Open : Flow of current is Open : OFF State 
 NC : Normally Closed : Flow of Current is Closed : ON State
-                                            
-                                                
-
-
-
-
                                                 
                                                     
-R1 : [ P ] [ O ] [ C ]
-                                                
-                                                    
-R2 : [ P ] [ O ] [ C ]
-                                                
-                                                    
-R3 : [ P ] [ O ] [ C ]
-                                                
-                                                    
-R4 : [ P ] [ O ] [ C ]
-                                            
-                                                
                                         
                                             
 <b>Voltage Wires for Relay Switch</b>

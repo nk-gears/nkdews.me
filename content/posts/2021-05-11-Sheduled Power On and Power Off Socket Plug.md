@@ -11,7 +11,7 @@ slug: sheduled-power-on-and-power-off-socket-plug
 
 
 
-<img hash='f493a3a62136f113f03945eac1c7a093' src='/note/a76c16b1-057d-4d47-a90e-c181b1a0c4ef/img/f493a3a62136f113f03945eac1c7a093/smart-plug.jpg' type='image/jpeg'/>
+<img hash='f493a3a62136f113f03945eac1c7a093' src='/note/a76c16b1-057d-4d47-a90e-c181b1a0c4ef/img/f493a3a62136f113f03945eac1c7a093/smart-plug.jpg' style='--en-naturalWidth:851; --en-naturalHeight:315;' type='image/jpeg'/>
 
 I was looking for a way to automate the process of Switching on the Main Switch for my Study Room. Initially i was looking for an Analog based solution. But later i realized these analog adapters are not that much flexible enough to modify or update them. Then i bought a Wifi Plug from Aliexpress which is based on the popular cloud based IOT Market Leader Tuya.
 
