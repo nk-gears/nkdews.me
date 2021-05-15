@@ -1,0 +1,5 @@
+hugo:
+    tag_to_type:
+        default: posts/
+        post: posts/
+        page:

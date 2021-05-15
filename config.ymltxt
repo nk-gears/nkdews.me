@@ -1,5 +1,5 @@
 baseURL: "https://nkdews.me/"
-title: "Nirmal's Personal Blog - Fullstack Developer and Cloud Solution Architect."
+title: "Nirmals Personal Blog - Fullstack Developer and Cloud Solution Architect."
 paginate: 5
 theme: PaperMod
 permalinks:
@@ -47,12 +47,13 @@ params:
     description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
     author: Theme PaperMod
     label:
-      icon: "https://nkdews.me/static/site-logo-150-fedce2fe945e39e9d7d4c60c5be88601.png"
+        text: "NKDews"
+        icon: /site-logo.png
+        iconHeight: 35
     # author: ["Me", "You"] # multiple authors
 
     defaultTheme: auto
-    label:
-      text: "-"
+
     # disableThemeToggle: true
     ShowShareButtons: true
     ShowReadingTime: true
@@ -94,10 +95,7 @@ params:
         - name: RsS
           url: "index.xml"
 
-    label:
-        text: "NKDews"
-        icon: /site-logo.png
-        iconHeight: 35
+
 
     # analytics:
     #     google:
