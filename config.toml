@@ -19,10 +19,19 @@ disableXML = true
 languageName = "English"
 weight = 1
 
+
+
 [[languages.en.menu.main]]
 name = "archives"
 url = "archives"
 weight = 5
+
+
+
+[[languages.en.menu.main]]
+name = "timeline"
+url = "categories/Timeline/"
+weight = 6
 
 [[languages.en.menu.main]]
 name = "search"
