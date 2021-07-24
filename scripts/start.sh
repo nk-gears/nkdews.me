@@ -4,4 +4,4 @@ enwrite -n "AWritingDaily" -t published  -o /Users/garden/projects/nkdews.me/  -
 git add .
 git commit -m "updated posts"
 git push
-/usr/local/bin/hugo serve --port 80 -D  --watch=true
+/usr/local/bin/hugo serve --port 9003 -D  --watch=true
