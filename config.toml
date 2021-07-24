@@ -30,7 +30,7 @@ weight = 5
 
 [[languages.en.menu.main]]
 name = "timeline"
-url = "categories/Timeline/"
+url = "categories/timeline/"
 weight = 6
 
 [[languages.en.menu.main]]
