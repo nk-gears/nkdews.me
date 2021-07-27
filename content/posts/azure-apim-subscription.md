@@ -9,7 +9,6 @@ tags: &1
 - azure
 - azure
 categories: *1
-
 ---
 
 
