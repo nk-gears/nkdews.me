@@ -9,6 +9,7 @@ tags: &1
 categories: *1
 slug: /lessons-learnt-from-tinkering-with-electric-and-electronic-devices
 
+
 ---
 
 ### Getting into Electronics
@@ -56,6 +57,12 @@ Be a curious kid, i never left anything in my home without unboxing. Now this ti
 In those days, Cable TV was so popular, We don;t had a cable tv connection in our home, But i used a technique through which we were watching cable tv channels. Just connected a wire in RF Cable Input and took the other part of the wire near the window. To my surprise we were able to get the channels for free. When we shifted our home to a new place, i was trying the same experiment. As it was not working in the new place, i simply opened the tv box and fiddling with the Picture Tube (assuming i am a expert technician at the age of 14). Then a big sound came something like opening a nozzle of a big football. Then i realized i broke the tip of the picturetube of the TV while settling the back cover. The TV technician concluded, the TV is no more worth to repair and asked us to put into a trash.
 
 Before the LCD/LED Tv, Picture tube monitors are so popular and it uses a heavy material which is used for displaying the video signals by converting the RF signals to the corresponding RGB Signals. This picture tube operate on high voltage and has potentail risks if exposed.
+
+### Troubleshooting Devices at Home
+
+I learnt at an early age on how to connect Fan, Tubelights with the terminals and even changed power cables for Home appliances for Grinder,Mixie,IronBox etc. This gave me more confidence on repairing things. Gradually, is any of the appliance failed to work, i immediately get my hands on and unbox the device and service them in no time. 
+
+Seeing this all my friends, neighbours and relatives come to me if there are any issues in the household devices. I happily accpeted and repaired. If something seems to be complex i will tell them to find a nearby serviceman. This has extended to routers,modem, laptops, refrigerators, washing machines and much more. You'd need to be a Plumber to fix a Broken tap. Just a common science is enough. I even had some experience in which the experts in the respective field failed to provide/repair the device and i was able to jump in and resolve after multiple failed attempts with these experts.
 
 ### Tools I Regularly Use
 
