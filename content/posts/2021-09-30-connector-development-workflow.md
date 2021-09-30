@@ -1,5 +1,3 @@
-# Power Automate - Custom Connector Independent Publisher - My Development Workflow
-
 ---
 title: Power Automate - Custom Connector Independent Publisher - My Development Workflow
 date: '2021-09-30'
