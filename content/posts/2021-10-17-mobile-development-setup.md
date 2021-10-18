@@ -1,4 +1,4 @@
-# Mobile Development environment Setup pitfalls
+# Mobile Development Setup - Pitfalls/Challenges
 
 Mobile app development may not be that much complex today as we have enough tools targeting multiple platform and devices. But the setting up the environment has been still frustrating considering the ever growing dependencies.
 
@@ -7,6 +7,13 @@ I have done some mobile apps in the past and I have not seen this much complexit
 This post I am sharing what I have experienced in setting up the environment.this is not to discourage any new beginners to the mobile development but the frustrations I had with these tools and platform.
 
 The following are the most common languages, tools & softwares which are used in mobile development.
+
+
+## iDe
+- Android Studio or IntelliJ 
+- XCode
+- VS Code
+
 
 ## Programming Languages & Tools
 - React Native - JavaScript Based, expo
@@ -18,15 +25,13 @@ The following are the most common languages, tools & softwares which are used in
   - Java
   - Kotlin
 
-## iDe
-- Android Studio or IntelliJ 
-- XCode
-- VS Code
 
 
 All these tools and platforms needs to be compatible with each other otherwise you will end up with frustration Of downloading these large files.
 
 Be prepared that after installing these tools, your hdd/ssd may already taken 40 GB of storage.
+
+
 
 ### XCode :
 
@@ -37,6 +42,11 @@ the giant tool and most annoying with multiple versions.
 I don't understand why Apple enforces developers to have latest OS BigSur for Xcode 13. Why they can't support Catalina which has been released couple of years ago ?. As a  Mac user, I don't want to upgrade immediately due to variety of reasons. 
 
 Once you setup everything and get started to develop something and try to download a sample code, you will notice that the current setup may not be compatible enough to run that code. Either it may be outdated in just few months or years.this may be due to variety of reasons like software dependencies and language upgrades and ide compatability
+
+
+What I liked to see :
+- Keep the backwards compatibility at least for 5 years.
+
 
 
 ### objective C & Swift :
@@ -65,7 +75,16 @@ what I like to see
 what i have understood is that learning a programming language definitely helps to understand the concepts and the thought process behind each language which they developed.
 I learned Java, Kotlin & Swift multiple versions. But practically when you try to develop it should feel comfortable for the developers. 
 
-### Flutter :
+### Java & Kotlin :
+
+The language seems to be good but the way it way implemented for the mobile programming is dreadful. The official documentation has ton of documentation with multiple ways of implementing things and makes me feel lost in the ocean of things. And they keep increasing the complexity in the name of patterns, dependency injections, dapper, hilt and the list goes on. These concepts may help in the long run for building apps which are extremely big and complex but when someone looks at the code it's really tough to understand the dots behind and how it's connected together. In the past I have used XML based ui development like wpf which is not so user friendly and we need to switch the context between the business logic and the xml parts. I see the same thing of placing the xml layout components separately. For others, this may seems to be comfortable but for me it's completely blinds me when I try to switch these and I hate it.
+
+The transition of have to Kotlin helps developers to use the modern syntax but again it's been a another learning curve and I ended up fighting with the syntax errors and language errors.
+
+### react native & expo :
+I tried few apps with react native and expo and it worked to some extent. They are some issues as the final app size is bigger than the native one and also it lags in the performance. React-native doesn't support all he features of a native. To implement again you need to do plumbing with the Java or Kotlin library and use that as a bridge to communicate from the react native. then I dropped this as well.
+
+### Flutter with Dart:
 
 After multiple failures with these rabbit hole of setting up and compatibility issues, I ended up to put this mobile development on hold for sometime. then I came across the flutter release from Google which uses the dart language which is similar to any object oriented programming.
 
@@ -77,8 +96,14 @@ Moto E6s : Android 9
 iPad 2 : 9.3.5
 iPhone SE : 14.4.5
 
-I am finally happy with the flutter and I was able to test and run on these devices. As i am working on simple apps and there is no plan to develop any 2d or 3D game apps for which native platform is recommended. My favourite ide is vscode for the flutter development and it's pretty powerful with the additional plugin which empowers developer productivity.
+I am finally happy with the flutter and I was able to test and run on these Multiple devices without any hicupps. As i am working on simple apps and there is no plan to develop any 2d or 3D game apps for which native platform is recommended. My favourite ide is vscode for the flutter development and it's pretty powerful with the additional plugin which empowers developer productivity.
 
+Good bye objective-c,swift,Java,Kotlin. Not sure whether flutter exposes all the features from the native platform but so far it's convincing as the development setup and workflow seems to be friendly for me
+
+Here some projects I have been working on using flutter.
+
+- Awespire
+- DaapTune
 
 
 
