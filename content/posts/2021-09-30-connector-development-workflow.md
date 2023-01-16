@@ -1,4 +1,4 @@
----
+ ---
 title: Power Automate - Custom Connector Independent Publisher - My Development Workflow
 date: '2021-09-30'
 author: Nirmal
@@ -14,7 +14,7 @@ slug: power-automate-custom-connector-independent-publisher-my-development-workf
 
 Recently the Power Automate Open Source Team Introduced the Independent Publisher Program. Being working with custom connector for more than a year, i was excited with this announcement and started developing some of the connectors based on my experience with some of the popular API Services like Xero, FreeAgent,Neto (Maropost), ITGlue etc.
 
-Here my Development Workflow
+Here my evelopment Workflow
 
 #### Workflow Expectations :
 
