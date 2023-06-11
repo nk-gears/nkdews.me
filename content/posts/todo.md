@@ -11,6 +11,20 @@ Blog Posts : ToDO
 9. Linux Macbook with iso2mac ubunutu 22.0.4/MattGradient
 10.
 
+![](/imaSges/uploads/)
+alias hs="hugo server --buildFuture --minify --buildDrafts"
+
+---
+title:
+date: 2023-06-11 10:44:12+11:00
+seoTitle:
+description:
+authors: ["YOUR NAME HERE"]
+---
+
+
+Notes : https://moonbooth.com/hugo/vs-code/#how-to-use-vs-code-user-snippets-to-quickly-insert-hugos-yaml-front-matter
+
 
 Issues with Airtel Static IP address
 nk-gears.duckdns.org
