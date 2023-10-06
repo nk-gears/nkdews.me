@@ -13,8 +13,7 @@ About a decade ago, the majority of websites operated on the HTTP protocol, with
 
 Regrettably, there are still some older devices that may struggle with HTTPS due to expired server certificates or outdated operating systems that lack support for HTTPS.
 
-I personally encountered this issue with my "Nook Simple Touch" device, which I've been using as a Quote Frame. This device retrieves data from an API, but since it can't access APIs or websites using HTTPS, I embarked on a quest to find a straightforward solution to host a HTTP-only URL. After some searching, I discovered that locating a hosting service supporting HTTP was challenging. Eventually, I settled on using the free version of Pipedream to craft a custom script in Node.js. This script fetches data from the original source and returns the response. An advantage of this platform is that it assigns a unique random URL to each script, which functions seamlessly in both HTTP and HTTPS environments.
-
+I personally encountered this issue with my "Nook Simple Touch" device, which I've been using as a Quote Frame. This device retrieves data from an API, but since it can't access APIs or websites using HTTPS, I embarked on a quest to find a straightforward solution to host a HTTP-only URL. After some searching, I discovered that locating a hosting service supporting HTTP was challenging. Eventually, I settled on using the free version of [Pipedream](https://pipedream.com/) to craft a custom script in Node.js. This script fetches data from the original source and returns the response. An advantage of this platform is that it assigns a unique random URL to each script, which functions seamlessly in both HTTP and HTTPS environments.
 
 
 ```
