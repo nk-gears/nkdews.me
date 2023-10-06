@@ -1,9 +1,10 @@
 ---
 title: Hosting a Simple Page without HTTPS for old device
-date: '2021-05-12'
+date: '2023-10-06'
 draft: false
 tags: &1
-- smart-phones
+- nook_reader
+- https
 categories: *1
 slug: hosting-simple-page-without-https-for-old-devices
 ---
