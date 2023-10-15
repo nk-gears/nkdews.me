@@ -26,6 +26,10 @@ name = "archives"
 url = "archives"
 weight = 5
 
+[[languages.en.menu.main]]
+name = "solution"
+url = "categories/solution/"
+weight = 6
 
 
 [[languages.en.menu.main]]
@@ -94,7 +98,7 @@ Welcome to my Personal Blog. I am a fulltime freelancer working on Cloud Based P
 
   [[params.socialIcons]]
   name = "twitter"
-  url = "https://github.com/nirmal_kumar"
+  url = "https://twitter.com/nirmal_kumar"
 
   [[params.socialIcons]]
   name = "github"
