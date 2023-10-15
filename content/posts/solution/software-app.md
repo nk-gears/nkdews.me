@@ -12,6 +12,18 @@ Later this can be used for generating new ideas.
 Note : 👍 denotes the solution which i have arrived at. Most 
 
 
+> Creating Content with Regular Work Schedule
+
+It's been a long time challenge for me to create content during the work hours. How to allocate dedicate hours for creating content.
+
+**Solution**
+
+- Set a day in a week - Every Saturday or Every Wednesday
+- Use a separate laptop/user-profile for work and content creation to keep the focus on respective areas.
+- Save the ideas incubation list
+
+
+
 > Ask Alexa - Run Custom Scripts
 
 It's disappointing that none of the voice assistant provides a simple way to execute custom scripts based on voice without going through the hassle of app creation and deployment.
