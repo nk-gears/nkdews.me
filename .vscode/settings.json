@@ -1,3 +1,22 @@
 {
-  "files.exclude": {}
+  "files.exclude": {
+    "layouts":true,
+    "public":true,
+    "resources":true,
+    "data":true,
+    "static":true,
+    "themes":true,
+    ".*":true,
+    "scripts":true,
+    "*ml*":true,
+    "arche*":true,
+    "content/posts/2021*":true,
+    "content/posts/2019*":true,
+    "content/posts/2020*":true,
+    "content/posts/2022*":true,
+    "content/*.md":true,
+    "content/posts/data":true,
+    "content/about":true,
+    ".vscode":true,
+  }
 }
