@@ -12,6 +12,17 @@ Later this can be used for generating new ideas.
 Note : 👍 denotes the solution which i have arrived at. Most 
 
 
+> Ask Alexa - Run Custom Scripts
+
+It's disappointing that none of the voice assistant provides a simple way to execute custom scripts based on voice without going through the hassle of app creation and deployment.
+
+Proposed Solution
+
+- For simple audio playlist, alexa provides University and Spiritual Talks Blueprint Template. This supports pls and rss audio feed (not podcast format though).
+- But these blueprints are not work with context. This means we can't skip to next or last.
+- For full control, we need to use the ask cli and create a app with custom commands and deploy on Lambda. Still it can be used only for private use and for public usage this needs to be published to alexa store.
+
+
 > Challenge - A Simple External Logging
 
 Web Developers often use console logging for troubleshooting at the frontend side. Sometime we may need to log to external service without depending on external service and track review easily with a spreadsheet.
@@ -46,12 +57,13 @@ Everytime we switch devices we may need to push data to copy data between these 
   - Hosting in google sheet is not a big deal but accessing them on demand is a challenge due to a long url. Instead shall we use a gg.gg comand with a custom link ?. Yes, but who knows when they will close this service ?
 - How it can given as a service for each user?
 - Sign In as user
-- Provide them a key
+- Provide them a key with support for API
 - Give them how to save and access
   - kv.appdews.com/username/get
     - UI Page to see the current text,url and other values based on password.
   - kv.appdews.com/username/set
     - UI Page to set the current text,url and other values based on password.
+    -
 
 > **Challenge - Reading SMS** 👍
 
