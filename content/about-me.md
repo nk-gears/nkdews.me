@@ -22,10 +22,13 @@ I’m Nirmal, Web and Software Enthusiast living in Chennai. I am independent Fr
 - Containerization: Docker, Swarm, Portainer
 - Workflow Automation: Google App Scripts, SharePoint (SPFx)
 
-####  🏗️ Solution Architect
-- Requirements Analysis
-- Scalable & Reusable Component Design
-- Best Practice & Tool Recommendations
+#### 🔄 Business Workflow Automation - AppScript Based
+- Google Apps Script expert
+- Custom scripts for Google Workspace (Sheets, Docs, Forms, Drive)
+- Integration with external APIs and services
+- Automated reporting and data processing
+- Time-driven and event-driven triggers
+
 
 ####  🛠️ DevOps & Infrastructure
 - CI/CD Pipelines
