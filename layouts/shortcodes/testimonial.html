@@ -1,0 +1,7 @@
+<div style=" box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); border-radius: 8px; padding: 24px; margin-bottom: 24px;">
+    <div style="display: flex; align-items: center; margin-bottom: 16px;">
+        <div style="font-size: 1.25rem; font-weight: 600;">{{ .Get "name" }}</div>
+        <div style="margin-left: 16px; ">{{ .Get "designation" }}, {{ .Get "organization" }}</div>
+    </div>
+    <p style="margin-bottom: 16px;">{{ .Inner | markdownify }}</p>
+</div>
