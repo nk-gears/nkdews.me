@@ -16,7 +16,7 @@ posts = "/:title"
 disableXML = true
 
 [languages.en]
-languageName = "English"
+label = "English"
 weight = 1
 
 

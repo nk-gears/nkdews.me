@@ -1,12 +1,10 @@
 ---
 title: 'Adobe Launch Extension   - Development Setup'
-author: Nirmal
-date: '2019-02-02'
+author: "Nirmal"
+date: "2019-03-10"
 path: '/adobe-launch-extension-notes'
 template: post
 categories: ["analytics","adobe"]
-author: "Nirmal"  
-date: "2019-03-10"
 description: ""
 tags: ["adobe-launch", "setup"]
 cover:
