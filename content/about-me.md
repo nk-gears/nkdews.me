@@ -43,7 +43,7 @@ I’m Nirmal, Web and Software Enthusiast living in Chennai. I am independent Fr
 
 > "Great developer, prioritizes client needs. Highly recommended!"
 
-Checkout my full testimonials : https://nkdews.me/testimonial/
+Checkout my full testimonials : https://nkdews.info/testimonial/
 
 ####  🌱 Always Learning
 I thrive in dynamic environments, embracing new technologies and challenges. My goal is to deliver efficient, scalable solutions tailored to your unique needs.
